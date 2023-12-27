@@ -1,0 +1,16 @@
+img{
+    width: 48px;
+    height: 48px;
+}
+
+mat-toolbar{
+    background-color: gray !important; /*cambiaras el color xd*/
+    height: 80px;
+    border-bottom: 1px solid white;
+}
+
+h2{
+    font-size: 25px;
+    color: white !important;
+    line-height: 80px;
+}

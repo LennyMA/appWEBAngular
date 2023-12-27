@@ -1,0 +1,10 @@
+.container{
+    padding: 20px 0;
+    background-color: gray;
+    height: calc(100vh - 144px); /*es una altura calculada. vh unidades de altura*/
+}
+
+mat-card{
+    padding: 20px;
+    background-color: rgb(192, 179, 179); /*para cambiar el color de la tabla que se presenta en cada modulo*/
+}

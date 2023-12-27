@@ -1,0 +1,15 @@
+h2{
+    text-align: center;
+    color: white;
+}
+
+:host{
+    width: 80%;
+    display: block;
+}
+
+.user img{
+    width: 80px;
+    max-height: 80px;
+}
+
